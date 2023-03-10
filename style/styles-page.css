@@ -1,0 +1,16 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    width: 800px;
+    height: 500px;
+}
+
+ol .even {
+    color: cornflowerblue;
+}
+
+.odd {
+    color:grey
+}

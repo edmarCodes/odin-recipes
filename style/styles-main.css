@@ -1,0 +1,13 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#header {
+    text-align: center;
+    color:royalblue;
+}
+
+#header img {
+    width: 700px;
+    height: auto;
+}
